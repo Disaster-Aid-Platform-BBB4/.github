@@ -52,24 +52,43 @@
 
 ## 📌 기술 스택 (Tech Stack)
 
-- Backend
-    - Gradle
-- Security
-- DB & ORM
-    - PostgreSQL
-    - PostGIS
-- Message Broker
-    - Apache Kafka
-    - RabbitMQ
-- Real-Time
-    - WebSocket
-    - Firebase Cloud Messaging
-- Infra
-    - Docker
-    - AWS EC2
-    - AWS S3
-- Collaboration
-    - GitHub
+- ### Backend
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot%203.x-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-%2302303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![QueryDSL](https://img.shields.io/badge/QueryDSL-%230769AD.svg?style=for-the-badge&logoColor=white)
+
+- ### Security
+![Spring Security](https://img.shields.io/badge/Spring%20Security-%236DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white)
+![JWT](https://img.shields.io/badge/json%20web%20tokens-%23000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+- ### DB & ORM
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-%233982CE.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis%207.0-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![ElastiCache](https://img.shields.io/badge/Amazon%20ElastiCache-%23C925D1.svg?style=for-the-badge&logo=amazonelasticache&logoColor=white)
+
+- ### Message Broker
+![Apache Kafka](https://img.shields.io/badge/apachekafka-%23231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+- ### Real-Time
+![WebSocket](https://img.shields.io/badge/websocket-%23010101.svg?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Firebase Cloud Messaging](https://img.shields.io/badge/firebase%20cloud%20messaging-%23DD2C00.svg?style=for-the-badge&logo=firebase&logoColor=white)
+
+- ### Infra
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-%23FF9900.svg?style=for-the-badge&logo=amazonec2&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-%23569A31.svg?style=for-the-badge&logo=amazons3&logoColor=white)
+
+- ### Collaboration
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-%234A154B.svg?style=for-the-badge&logo=slack&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![ERDCloud](https://img.shields.io/badge/ERDCloud-%233B82F6.svg?style=for-the-badge&logoColor=white)
+<br><br>
 
 ## 📌 아키텍처 (Cloud Architecture)
 
